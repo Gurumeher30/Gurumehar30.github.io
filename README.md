@@ -28,7 +28,7 @@ i am _gurumeher singh gill_ . I am from ludhiana .I have completed my 12 from **
 * This is my first repository report
 
 
-  #### ** sharing my experience @ **gne**
+  #### ** sharing my experience @ gne**
 
   **day 1**
 
