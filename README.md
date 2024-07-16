@@ -11,4 +11,10 @@
 * location :- ludhiana
   
 ### class 12 result:-
-*
+
+|s.no|subject|Marks Obtained| total|
+| 1 |   PHYSICS      |       87       |  100    |
+| 2 |   CHEMISTRY    |       87       |  100    |
+| 3 |   MATHS        |       70       |  100    |     
+| 4 |   ENGLISH      |       86       |  100    |
+| 5 |   MUSIC        |       92       |  100    |
