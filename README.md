@@ -20,7 +20,7 @@
 | 4 |   ENGLISH      |       86       |  100    |
 | 5 |   MUSIC        |       92       |  100    |
 
-### ** about myself**
+###  about myself
 _hi everyone_
 i am _gurumeher singh gill_ . I am from ludhiana .I have completed my 12 from **guru nanak public school, sarabha nagar ludhiana**.
 
@@ -28,7 +28,7 @@ i am _gurumeher singh gill_ . I am from ludhiana .I have completed my 12 from **
 * This is my first repository report
 
 
-  #### ** sharing my experience @ gne**
+  ####  sharing my experience @ gne
 
   **day 1**
 
