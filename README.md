@@ -6,5 +6,9 @@
 ## Personal Information
 * Full Name:- Gurumeher Singh Gill
 * Age:- 17
-* Hobbies:- Reading , Skating
-* 
+* Hobbies:- Reading
+* education:- B.tech in computer science [cs]
+* location :- ludhiana
+  
+### class 12 result:-
+*
