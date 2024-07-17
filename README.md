@@ -21,8 +21,8 @@
 | 5 |   MUSIC        |       92       |  100    |
 
 ###  About Myself
-_hi everyone_
-i am _gurumeher singh gill_ . I am from ludhiana .I have completed my 12 from **guru nanak public school, sarabha nagar ludhiana**.
+'_Hi Everyone_'
+I am _gurumeher singh gill_ . I am from ludhiana .I have completed my 12 from **guru nanak public school, sarabha nagar ludhiana**.
 
 * Now I am doing my b.tech in computer science engineering from **guru nanak dev engineering collage**
 * This is my first repository report
