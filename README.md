@@ -9,7 +9,7 @@
 * Hobbies:- Reading
 * education:- B.tech in computer science [cs]
 * location :- ludhiana
-  
+ ------------------------- 
 ### class 12 result:-
 
 |s.no|   subject     | Marks Obtained |  total  |
@@ -19,7 +19,7 @@
 | 3 |   MATHS        |       70       |  100    |     
 | 4 |   ENGLISH      |       86       |  100    |
 | 5 |   MUSIC        |       92       |  100    |
-
+------------------------------
 ###  About Myself
 _Hi Everyone_
 I am _gurumeher singh gill_ . I am from ludhiana .I have completed my 12 from **guru nanak public school, sarabha nagar ludhiana**.
@@ -28,8 +28,9 @@ I am _gurumeher singh gill_ . I am from ludhiana .I have completed my 12 from **
 * This is my first repository report
 * I am very interested in coding and I love to do coding and learn new things 
 
-  
+  -------------------------------------------------------------------
 
 #### Contact
 1. Email ID :-
    [singhgurumeher016@gmail.com](singhgurumeher016@gmail.com)
+----------------------------------------------------------------------
