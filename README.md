@@ -20,21 +20,15 @@
 | 4 |   ENGLISH      |       86       |  100    |
 | 5 |   MUSIC        |       92       |  100    |
 
-### ** about myself**
+###  About Myself
 _hi everyone_
 i am _gurumeher singh gill_ . I am from ludhiana .I have completed my 12 from **guru nanak public school, sarabha nagar ludhiana**.
 
 * Now I am doing my b.tech in computer science engineering from **guru nanak dev engineering collage**
 * This is my first repository report
 
+  
 
-  ####  sharing my experience @ gne
-
-  **day 1**
-
-  **day 2**
-
-  **day 3**
-
-
-  **thank you very much**
+** contact **
+1. Email ID :-
+   [this is a link](singhgurumeher016@gmail.com)
