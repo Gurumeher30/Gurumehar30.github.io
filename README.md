@@ -1,4 +1,4 @@
-# NAME:- Gurumeher Singh
++++# NAME:- Gurumeher Singh
 
 
 ![image](https://github.com/user-attachments/assets/9541fda5-ad32-4e5a-99b2-ac827f300030)
@@ -19,7 +19,7 @@
 | 3 |   MATHS        |       70       |  100    |     
 | 4 |   ENGLISH      |       86       |  100    |
 | 5 |   MUSIC        |       92       |  100    |
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###  About Myself
 _Hi Everyone_
 I am _gurumeher singh gill_ . I am from ludhiana .I have completed my 12 from **guru nanak public school, sarabha nagar ludhiana**.
@@ -28,7 +28,7 @@ I am _gurumeher singh gill_ . I am from ludhiana .I have completed my 12 from **
 * This is my first repository report
 * I am very interested in coding and I love to do coding and learn new things 
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### MY EXPERIENCE @ GNE
 | Date | Resource Person | Description |
