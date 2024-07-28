@@ -56,7 +56,8 @@ I am _gurumeher singh gill_ . I am from ludhiana .I have completed my 12 from **
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##### MS EXCEL CERTIFICATE
-![certificate](    )
+![certificate](https://github.com/user-attachments/assets/947f9589-da79-434a-88a1-4f3e1b66bb59)
+
 
 
 
